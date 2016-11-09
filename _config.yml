@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ur002.github.io
+title: ur002
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
